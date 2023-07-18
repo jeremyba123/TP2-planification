@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 0px;
   }
   
@@ -38,4 +38,14 @@ body {
     margin: 20px;
     padding: 20px;
     text-align: left;
+  }
+
+
+  .membre1 {
+    background-color: rgb(17, 87, 153);
+  }
+
+
+  a {
+    color: white;
   }
